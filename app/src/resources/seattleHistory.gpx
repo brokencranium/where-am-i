@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Geovative Solutions GeoTours" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+    <metadata>
+        <name>Seattle History</name>
+        <desc>In-depth description of historic Seattle sites.</desc>
+        <author>
+            <name>perhapslater@yahoo.com, using GeoTours</name>
+            <link href="http://www.geovative.com/view?t=KFLK">
+                <text>Seattle History</text>
+            </link>
+        </author>
+        <link href="http://www.geovative.com/view?t=KFLK">
+            <text>Seattle History</text>
+        </link>
+        <time>2009-01-08T10:51:02</time>
+        <keywords>Seattle Historic
+            Seattle Sightseeing</keywords>
+    </metadata>
+
+
+    <wpt lat="47.665566" lon="-122.38219">
+        <name>The Ballard Avenue Historic District</name>
+        <desc>The Ballard Avenue Historic District reflects the patterns of industrial growth in Seattle  </desc>
+        <sym>Waypoint</sym>
+        <extensions>
+            <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+                <gpxx:Proximity>152.4</gpxx:Proximity>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="47.632315" lon="-122.352629">
+        <name>Queen Anne High School</name>
+        <desc>The Virginia V documents a crucial phase in Seattle's maritime history. Built in 1922, when roads were frequently impassible, this propeller-driven wooden steamer immediately became one of the vessels that supported the commerce and communications of Puget Sound. For 16 years, it carried commuters and supplies between Seattle and Tacoma. She averaged 125,000 miles per year while carrying over eight million passengers through the West Pass of Vashon Island. This type of ship was so common in the 1920s and early '30s--the U.S. Department of Commerce counted more than 260,000 in 1932--that they collectively became known as the "Mosquito Fleet" because of the way they swarmed about America's lakes, rivers and other protected waters. However, as the Great Depression deepened and transportation methods changed, demand for these ships decreased.
+
+            In 1939 the Virginia V began offering excursion trips, which proved only marginally profitable and the ship changed ownership six times in 30 years. The non-profit Virginia V Foundation purchased the ship in 1980 and began to restore it. Although funds were generated through charters and other services, these operations did not provide funds sufficient to correct serious deterioration in the wooden hull of this National Historic Landmark. Safety concerns led the Foundation to stop passenger operations in 1996, and a year later the foundation moved the Virginia V to dry dock for further restoration. Repairs were completed in May 2002, and this sole surviving steam-powered member of the "Mosquito Fleet" is once again traveling the waters of Puget Sound.
+
+
+            Queen Anne High School represents a major change in Seattle's education system. Reformers around the turn of the century viewed education as a possible cure for America's social ills. They argued that better schooling required safe, scientifically designed buildings. Seattle's Board of Education was influenced by these ideals and hired James Stephen as the "Official School Architect" in 1899. Stephen developed a "Model School Plan" that was widely copied in Washington State, and the 1909 Queen Anne High School became its fullest realization. A School Board Report claimed this Neo-classical building, situated atop the crest of Queen Anne Hill, "marked the summit of achievement thus far in Seattle school architecture." Edgar Blair, a school board member and later the School District architect, noted "it is the most modern and costly building in Seattle.... [Providing] spacious corridors, ample exits, abundant light and fresh air . . . and toilet facilities on every floor."
+
+            In 1929, with rising enrollment overcrowding Queen Anne High School, the district decided to build an addition to the original school. The character of the 1929 addition exemplifies an architectural shift away from glorifying classical ages toward a celebration of the modern industrial age, with more "functional" schools, more modest in scale and cost. Queen Anne was again enlarged in 1955. In the 1980s, the school district closed the school and sold the building to developers. Its purchasers converted the Old Queen Anne High School into 139 high-quality apartments that opened in 1987, a project that used the Federal Historic Preservation Tax Incentive Program to receive $1.6 million in tax credits. Today Queen Anne High School is an excellent example of the adaptive use of historic buildings.
+
+            The Queen Anne High School is located at 201 Galer St. at the top of Seattle's Queen Anne Hill. The complex is not open to the public.
+        </desc>
+        <sym>Waypoint</sym>
+        <extensions>
+            <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+                <gpxx:Proximity>152.4</gpxx:Proximity>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="47.625751" lon="-122.337046">
+        <name>The Wawona Ship</name>
+        <desc>The three-masted, bald-headed (having no topmasts) Wawona is the largest sailing schooner built in North America. Constructed by Hans Bendixen at Fairhaven, California, she began her career in 1897 as a lumber ship, making quick runs up and down the Pacific Coast. In 1914, after 17 years of carrying lumber, she became part of the codfishing fleet that operated in the Bering Sea. By 1940 her crews had caught 6,830,400 codfish, a world's record for a catch by a single vessel. Conscripted during World War II for government use as a barge, she was re-rigged in 1946 and had two last seasons of codfishing. The Wawona then sat in port for nine years. In 1952, Capt. Ralph E. Petersen sought to turn Wawona into a South Seas cruise ship, but this plan ended due to a lack of funds. Even her 1953 purchase by cattle rancher William Studdart and film star Gary Cooper failed to return her to the sea. The pair had planned to export beef cattle to the Soviet Union, but the deal fell apart during negotiations with the Russians. Fortunately, California's new maritime museum sparked public interest in rapidly disappearing historic ships and the public raised the money to save the Wawona from demolition. In 1964, Seattle's Northwest Seaport purchased her in order to create a maritime museum for Puget Sound. The last member of the Northwest's commercial sailing fleet, the Wawona is associated with an industry that shaped the growth and history of the Northwest.
+            The Wawona is located on Lake Union, just north of downtown Seattle. The Wawona is part of Northwest Seaport's active volunteer program, and is undergoing restoration. She is open to the public. For more information contact 206-447-9800 or visit their website.
+        </desc>
+        <sym>Waypoint</sym>
+        <extensions>
+            <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+                <gpxx:Proximity>152.4</gpxx:Proximity>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="47.628368" lon="-122.314545">
+        <name>Volunteer Park</name>
+        <desc>For more than a century Volunteer Park has been the center of Seattle's park system. Though the city began purchasing this site along the crown of Capitol Hill in 1876, more than 15 years passed before the municipal government began to clear the land. Improvements accelerated after the turn of the century, when Seattle joined many other American cities in creating extensive networks of parks. In 1903, the Olmsted Brothers, America's most famous landscape architects, issued a comprehensive plan for parks, boulevards and playgrounds throughout Seattle. Named to honor the men who had enlisted to fight in the Spanish-American War, Volunteer Park featured classic examples of Olmsted design: adaptations to and reflections of the land's natural features, plantings added so cleverly they seemed native to the site, curving paths that provided ever-changing vistas and the inclusion of recreation facilities such as playgrounds. Their proposal that the park include an observation tower was fulfilled in 1906, when the city built a water tower whose deck, open to the public, provided panoramic views of downtown, the harbor and the Cascade and Olympic Ranges. Between 1906 and 1912 the citizens of Seattle authorized several million dollars in bond issues to fulfill most, though not all, of the Olmsteds' proposals for Volunteer Park and the rest of the city. Since that time Volunteer Park has received a number of additions: a conservatory for exotic plants, five supporting greenhouses and an art museum (now specializing in Asian Art). Today the 48-acre site remains Seattle's most intensively used park, welcoming those interested in flora, fine arts, recreation or simply a quiet break from a busy city.
+            Volunteer Park is located at 1400 East Prospect St. and is open to the public. It is jointly owned and maintained by the Department of Parks and Recreation and the Water Department. For more information call 206-684-4075 or visit
+            www.ci.seattle.wa.us/parks/parkspaces/Volpark.htm
+
+        </desc>
+        <sym>Waypoint</sym>
+        <extensions>
+            <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+                <gpxx:Proximity>152.4</gpxx:Proximity>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="47.627478" lon="-122.322417">
+        <name>Harvard-Belmont Historic District</name>
+        <desc>The Harvard-Belmont District encompasses an exclusive residential area on the western slope of Capitol Hill. Seattle was the departure point for the Yukon gold rush, and an event which created a new class of wealthy people. These individuals attempted to indicate their prominence in various ways: they joined elite social organizations like the Arctic Club or paid for the construction of skyscrapers such as the Hoge Building. In 1901 Seattle railroad builder H. C. Henry established another method for indicating new-found status when he decided to locate his home in the Harvard-Belmont neighborhood rather than on the traditionally important, but increasingly middle-class First Hill. Claiming that "no money will be spared in making this residence as handsome as any on the West Coast," Henry kicked off a decade-long building frenzy. Seattle citizens of similar social and economic means hired both local and Eastern architects, who by 1910 had designed more than 45 large Victorian, Neo-classical, Colonial Revival, and Tudor Revival Houses in the Harvard-Belmont neighborhood. Although a streetcar line passed through Capitol Hill, this area did not become a "streetcar suburb." Its wealthy inhabitants instead used the newly developed automobile for transportation. H. C. Henry became a founding member of the area's automobile club, and erected a five-car garage with an upstairs apartment for his chauffeur well before automobiles were widely used. In the following decades Prairie Style houses, apartment buildings, the Cornish School, and the Century Women's Club were added to the neighborhood. Throughout the years, the Harvard-Belmont Historic District has remained a prestigious neighborhood of carefully tended gardens, tree-shaded streets and picturesque, elegant homes.
+            The Harvard-Belmont Historic District is located just west of Volunteer Park, and is roughly bounded by Bellevue Pl., and Broadway, Boylston and Harvard aves. The buildings within the district are private and not open to the public.
+        </desc>
+        <sym>Waypoint</sym>
+        <extensions>
+            <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+                <gpxx:Proximity>152.4</gpxx:Proximity>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+        </extensions>
+    </wpt>
+
+    <wpt lat="47.61299" lon="-122.322092">
+        <name>Fire Station No. 25</name>
+        <desc>Fire Station No. 25 is a reminder of the fire stations and fire equipment of earlier eras. Built between 1908 and 1909, the station was designed with features necessary for the horse-drawn fire wagons of the early 20th century: room for a blacksmith shop, a horse ramp from the alley into the building and three stalls for horses. The front of each stall featured a pair of double doors that opened automatically when the fire alarm rang. As Fire Station No. 25 adapted to changing times, it also became home to the city's first piece of equipment powered by an internal combustion engine. By World War I the last of the horse wagons were gone and modifications allowed the station to adapt to the new requirements of the contemporary fire equipment. Despite these changes, however, by 1970 the station was no longer adequate for the size and complexity of modern equipment. Historic Seattle, the city's official preservation and development authority, purchased the building, then sold it with protective covenants to a developer. Now subdivided into 16 luxury rental apartments, Fire Station No. 25 stands as a monument to Seattle's civic history and to adapting old buildings to new uses.
+
+            Fire Station No. 25 is located at 1400 Harvard Ave., just east of the Phillips House. The building is not open to the public.
+        </desc>
+        <sym>Waypoint</sym>
+        <extensions>
+            <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+                <gpxx:Proximity>152.4</gpxx:Proximity>
+                <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+            </gpxx:WaypointExtension>
+        </extensions>
+    </wpt>
+</gpx>
